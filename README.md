@@ -69,4 +69,4 @@ Suporte a mais métricas, como duração do vídeo e interações nos comentári
 Melhorar a interface gráfica com mais opções de personalização.
 
 ## Contato
-Para dúvidas ou sugestões, entre em contato via [willianbabosa.contact@gmail.com] ou crie uma issue neste repositório.
+Para dúvidas ou sugestões, entre em contato via [willianbarbosa.contact@gmail.com] ou crie uma issue neste repositório.
